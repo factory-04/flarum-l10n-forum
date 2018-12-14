@@ -22,10 +22,10 @@
 	],
 	"support": {
 		"email": "support@metastore.pro",
-		"issues": "https://gitlab.com/metastore/flarum/flarum-l10n-forum/issues",
+		"issues": "https://github.com/factory-04/flarum-l10n-forum/issues",
 		"forum": "https://webmasters.community/",
 		"wiki": "https://flarum.webmasters.wiki/",
-		"source": "https://gitlab.com/metastore/flarum/flarum-l10n-forum"
+		"source": "https://github.com/factory-04/flarum-l10n-forum"
 	},
 	"require": {
 		"flarum/core": "^0.1.0-beta.8"

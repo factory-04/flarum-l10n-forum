@@ -33,5 +33,13 @@ php flarum cache:clear
 
 ## Ссылки
 
+- [Справка](https://flarum.webmasters.wiki/)
+- [Поддержка](https://webmasters.community/)
+- [Исходный код](https://github.com/factory-04/flarum-l10n-forum)
+- [Сообщить о проблеме](https://github.com/factory-04/flarum-l10n-forum/issues)
+- [Скачать через Packagist](https://packagist.org/packages/metastore/flarum-ext-russian)
+
+## Информация о платформе
+
 - [**METADATA / FOUNDATION**](https://metadata.foundation/) - поддержка и разработка открытых проектов.
 - [**METASTORE**](https://metastore.pro/) - хранилище открытых проектов [**METADATA**](https://metadata.foundation/).
