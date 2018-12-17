@@ -33,8 +33,8 @@ php flarum cache:clear
 
 ## Ссылки
 
-- [Справка](https://flarum.webmasters.wiki/)
 - [Поддержка](https://webmasters.community/)
+- [Документация](https://flarum.webmasters.wiki/)
 - [Исходный код](https://github.com/factory-04/flarum-l10n-forum)
 - [Сообщить о проблеме](https://github.com/factory-04/flarum-l10n-forum/issues)
 - [Скачать через Packagist](https://packagist.org/packages/metastore/flarum-ext-russian)
