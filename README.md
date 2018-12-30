@@ -1,5 +1,17 @@
 # Информация
 
+[![Tag](https://img.shields.io/github/tag/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/releases)
+[![](https://img.shields.io/github/downloads/factory-04/flarum-l10n-forum/total.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/releases)
+[![Packagist](https://img.shields.io/packagist/v/metastore/xenforo-l10n-core-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/xenforo-l10n-core-russian)
+[![](https://img.shields.io/packagist/dt/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://packagist.org/packages/metastore/xenforo-l10n-core-russian)
+
+[![Repo size](https://img.shields.io/github/repo-size/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum)
+[![Issues](https://img.shields.io/github/issues-raw/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr-raw/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/pulls)
+[![License](https://img.shields.io/github/license/factory-04/flarum-l10n-forum.svg?style=flat-square)](LICENSE)
+[![Liberapay](https://img.shields.io/badge/liberapay-donate-red.svg?style=flat-square)](https://liberapay.com/metadata/donate)
+[![Patreon](https://img.shields.io/badge/patreon-donate-red.svg?style=flat-square)](https://patreon.com/metadata)
+
 Пакет русской локализации движка [**Flarum**](https://flarum.org/) - программного обеспечения нового поколения для создания сообществ. Реализована поддержка единичных и множественных чисел (переменных). Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.
 
 ## Установка
