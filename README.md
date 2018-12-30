@@ -1,7 +1,6 @@
 # Информация
 
 [![Tag](https://img.shields.io/github/tag/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/releases)
-[![](https://img.shields.io/github/downloads/factory-04/flarum-l10n-forum/total.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/releases)
 [![Packagist](https://img.shields.io/packagist/v/metastore/flarum-ext-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
 [![](https://img.shields.io/packagist/dt/metastore/flarum-ext-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
 
