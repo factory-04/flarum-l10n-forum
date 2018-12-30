@@ -8,6 +8,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/issues)
 [![Pull requests](https://img.shields.io/github/issues-pr-raw/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/pulls)
 [![License](https://img.shields.io/github/license/factory-04/flarum-l10n-forum.svg?style=flat-square)](LICENSE)
+
 [![Liberapay](https://img.shields.io/badge/liberapay-donate-red.svg?style=flat-square)](https://liberapay.com/metadata/donate)
 [![Patreon](https://img.shields.io/badge/patreon-donate-red.svg?style=flat-square)](https://patreon.com/metadata)
 
