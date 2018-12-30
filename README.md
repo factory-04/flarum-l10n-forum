@@ -2,8 +2,8 @@
 
 [![Tag](https://img.shields.io/github/tag/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/releases)
 [![](https://img.shields.io/github/downloads/factory-04/flarum-l10n-forum/total.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/releases)
-[![Packagist](https://img.shields.io/packagist/v/metastore/flarum-l10n-forum.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
-[![](https://img.shields.io/packagist/dt/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
+[![Packagist](https://img.shields.io/packagist/v/metastore/flarum-ext-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
+[![](https://img.shields.io/packagist/dt/factory-04/flarum-ext-russian.svg?style=flat-square)](https://packagist.org/packages/metastore/flarum-l10n-forum)
 
 [![Repo size](https://img.shields.io/github/repo-size/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum)
 [![Issues](https://img.shields.io/github/issues-raw/factory-04/flarum-l10n-forum.svg?style=flat-square)](https://github.com/factory-04/flarum-l10n-forum/issues)
